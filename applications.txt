@@ -1,0 +1,4 @@
+Company=main data | Role=intern | Status=1 | Note=this is a test job add | Date=12/01/2026
+Company=second entry | Role=starter dev | Status=1 | Note=test trest | Date=12/02/2026
+Company=third entry | Role=main dev | Status=1 | Note=test | Date=13/02/2026
+Company=becode | Role=java developer | Status=1 | Note=this is a note | Date=01/01/2026
